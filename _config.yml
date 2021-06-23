@@ -1,9 +1,9 @@
 # Site settings
-title: My Blog
+title: Everc Hugo ECHO
 SEOTitle: Everc'block
 header-img: img/post-bg-desk.jpg
 email: O14748120@outlook.com
-description: "写一句你想写的话"
+description: "now nothing!"
 keyword: "我的博客"
 url: "http://EchoesHastur.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
