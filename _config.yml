@@ -60,10 +60,10 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID:                             #生成的clientID
-  clientSecret:     #生成的clientSecret
-  repo: name.github.io    #仓库名称
-  owner:     #github用户名
+  clientID:840d4f3e8335e6edccce                             #生成的clientID
+  clientSecret:bb2799863cb6b8f224dbe9e57c1230264aa8e71c     #生成的clientSecret
+  repo:echoeshastur.github.io    #仓库名称
+  owner:EchoesHastur     #github用户名
   admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
