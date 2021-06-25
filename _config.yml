@@ -63,8 +63,8 @@ gitalk:
   clientID:3ba9a7eae491b954ff37                             #生成的clientID
   clientSecret:b058ad5d4d7b42c84a1bd04d49e5276813365d2d     #生成的clientSecret
   repo:echoeshastur.github.io    #仓库名称
-  owner:1363776936@qq.com     #github用户名
-  admin:1363776936@qq.com 
+  owner:EchoesHastur     #github用户名
+  admin:EchoesHastur
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
